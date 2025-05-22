@@ -90,3 +90,7 @@ router.delete('/eventos/:id', async (req, res) => {
 });
 
 module.exports = router;
+
+
+
+const ola = "Primeiro teste!"
