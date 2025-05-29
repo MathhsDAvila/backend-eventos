@@ -93,4 +93,3 @@ module.exports = router;
 
 
 
-const ola = "Primeiro teste!"
